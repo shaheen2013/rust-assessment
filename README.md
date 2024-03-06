@@ -54,14 +54,11 @@ Conversion notes:
     1. `process_monitor -monitorFile /path/to/given/monitors.json/file`
 4. Create one or more data structures in rust for storing the data from the monitors.json file in a similar format
 5. Now, create a struct for result in the format given below
-
         ``
         Result
            integer value
            integer processed_at
-
         ``
-
 
 **Day - 5**
 
