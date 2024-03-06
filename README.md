@@ -1,35 +1,9 @@
-<!-----
-
-
-
-Conversion time: 0.336 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β35
-* Wed Mar 06 2024 02:31:15 GMT-0800 (PST)
-* Source doc: SET Trial Camp Tasks
------>
-
-
 **Day - 1**
-
-
 
 1. Set up rust development environment using rustup and build a simple project that prints “Hello world” in the terminal
 2. Learn about rust data types, scope, and functions
 
 **Day - 2**
-
-
 
 1. Learn ownership and borrowing in rust
 2. Learn fundamentals of struct, and enums
@@ -38,15 +12,11 @@ Conversion notes:
 
 **Day - 3**
 
-
-
 1. Argument parsing
 2. `std::path::Path `and File I/O
 3. Program arguments and argument parsing
 
 **Day - 4**
-
-
 
 1. Clone this project: —
 2. Add a function that processes command line arguments
@@ -55,15 +25,13 @@ Conversion notes:
 4. Create one or more data structures in rust for storing the data from the monitors.json file in a similar format
 5. Now, create a struct for result in the format given below
 
-      ``
-        Result
-           integer value
-           integer processed_at
-      ``
+    ```
+    Result
+        integer value
+        integer processed_at
+    ```
 
 **Day - 5**
-
-
 
 1. Prepare an instance to hold the JSON data from the monitors.json file and put random results in each monitor
     1. Put any numeric value in the value field of the result instance
