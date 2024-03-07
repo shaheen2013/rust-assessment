@@ -1,6 +1,6 @@
 **Software Engineer Trainee Trial Camp**
 
-In this five day long project, you will be learning the Rust programming language fundamentals and building a command line application. In the first three days you will need to learn the basic concepts of rust from various sources available online. Then, on the remaining two days, you will need to develop the project based on the given instructions.
+During this five-day project, you will learn the fundamentals of the Rust programming language while constructing a command-line application. For the first three days, you will focus on mastering basic Rust concepts through various online resources. Then, during the remaining two days, you will apply your knowledge to develop the project based on provided instructions.
 
 **Reccommended learning resource**
 
