@@ -1,41 +1,31 @@
-**Day - 1**
+**Software Engineer Trainee Trial Camp**
 
-1. Set up rust development environment using rustup and build a simple project that prints “Hello world” in the terminal
-2. Learn about rust data types, scope, and functions
+In this five day long project, you will be learning the Rust programming language fundamentals and building a command line application. In the first three days you will need to learn the basic concepts of rust from various sources available online. Then, on the remaining two days, you will need to develop the project based on the given instructions.
 
-**Day - 2**
+**Reccommended learning resource**
 
-1. Learn ownership and borrowing in rust
-2. Learn fundamentals of struct, and enums
-3. Learn rust attributes
-4. Learn basics of rust lifetime
+Rust By Example: [https://doc.rust-lang.org/rust-by-example](https://doc.rust-lang.org/rust-by-example)
 
-**Day - 3**
+**Full program outline**
 
-1. Argument parsing
-2. `std::path::Path `and File I/O
-3. Program arguments and argument parsing
 
-**Day - 4**
 
-1. Clone this project: —
-2. Add a function that processes command line arguments
-3. Take input from the command line in the following format:
-    1. `process_monitor -monitorFile /path/to/given/monitors.json/file`
-4. Create one or more data structures in rust for storing the data from the monitors.json file in a similar format
-5. Now, create a struct for result in the format given below
+**Project Resources**
 
-    ```
-    Result
-        integer value
-        integer processed_at
-    ```
+[https://github.com/shaheen2013/rust-assessment](https://github.com/shaheen2013/rust-assessment)
 
-**Day - 5**
+**Rust and project setup**
 
-1. Prepare an instance to hold the JSON data from the monitors.json file and put random results in each monitor
-    1. Put any numeric value in the value field of the result instance
-    2. Put the current timestamp(time passed since unix epoch) in seconds
-2. Convert this data to JSON again
-3. Find any suitable package/library for the rust object to JSON conversions and vice versa
-4. Handle possible error cases so that your program doesn’t panic in the runtime
+
+
+1. Follow this resource for rust setup: [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+2. Download the assets directory from [https://github.com/shaheen2013/rust-assessment](https://github.com/shaheen2013/rust-assessment)
+3. Create a new repository on github and clone it to your local machine
+4. Move the assets directory within your project
+
+**Delivery**
+
+1. Follow the given instructions in the program outline for day-3 and day-4 to finish the project
+2. Share the project repository in this form: [https://forms.gle/tEkPLAqSS6ovwMH29](https://forms.gle/tEkPLAqSS6ovwMH29)
+
+Thanks for your participation. We appreciate your commitment and dedication.
